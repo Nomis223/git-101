@@ -1,0 +1,12 @@
+body {
+  margin : 0;
+  font-family: cursive;
+}
+#containter {
+  display: flex;
+}
+
+#logo {
+  height: 80px;
+  width: 80px;
+}
